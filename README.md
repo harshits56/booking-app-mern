@@ -34,16 +34,16 @@ backend/
 
 ### 1. Clone Repository
 
-git clone <your-repo-url>
+git clone https://github.com/harshits56/booking-app-mern.git <br>
 cd booking-app
 
 
 ### 2. Backend Setup
 
-cd backend
-npm install
-cp .env.example .env
-node index.js
+cd backend <br>
+npm install <br>
+cp .env.example .env <br>
+node index.js <br>
 
 
 ### 3. Frontend Setup
